@@ -6,6 +6,8 @@ https://github.com/liufengting/FTIndicator
 
 Compile file:
 Toast : https://github.com/JimmyPun610/FTIndicatorXamariniOS/blob/master/FTToastIndicatorLib/FTToastIndicatorLib.dll
+
+
 In app notification : https://github.com/JimmyPun610/FTIndicatorXamariniOS/blob/master/FTNotifcationLibrary/FTNotifcationLibrary.dll
 
 Usage:
